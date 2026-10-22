@@ -43,6 +43,9 @@ javascript-object-assignments/
 │   ├── level2_q3_nested_address.png
 │   ├── level3_q1_inventory.png
 │   └── level4_q1_deep_clone.png
+└── video/
+    ├── level3_group_students.mp4
+    └── level4_object_validator.mp4
 ```
 
 ## 4. Selected Questions
@@ -121,7 +124,7 @@ The assignment requires two screen-recorded demonstrations.
 1. **Level 3 — Question 2: Group Students by Major.** The recording demonstrates the program, explains the grouping logic, and shows the output.
 2. **Level 4 — Question 2: Build an Object Validator.** The recording explains the validation rules, demonstrates valid and invalid cases, and shows the results.
 
-The recordings are kept in the local `videos/` directory and excluded from Git because each file exceeds GitHub's 100 MB file-size limit. They are not included in this repository.
+The original recordings remain in the local `videos/` directory and are excluded from Git. Compressed copies are saved in `video/` at reduced resolution and frame rate to fit GitHub's 100 MB per-file limit.
 
 ## 8. Testing and Expected Results
 
@@ -154,11 +157,11 @@ The object validator supports only the rules implemented in the source code. Its
 - [x] The Level 4 demonstration has been recorded.
 - [x] Both videos are saved in the `videos/` directory.
 - [x] The README and supporting output documentation are included.
-- [ ] Demo videos are included in the GitHub repository or linked externally. (The local video files are excluded because of their size.)
+- [ ] Compressed demo videos in `video/` have been pushed to GitHub.
 - [x] The GitHub repository link has been checked and is ready to submit.
 
 ## 11. Conclusion
 
 This project demonstrates practical applications of JavaScript objects, from basic property access to structured data processing and validation. Organizing the solutions by level makes it easier to understand each task, test the implementation, and review the results.
 
-**Submission:** The GitHub repository contains the source code, documentation, and available output screenshots. The required video demonstrations remain local and are not included in the repository.
+**Submission:** The GitHub repository contains the source code, documentation, and available output screenshots. Compressed video demonstrations are in `video/`; the original full-quality recordings remain local in `videos/`.
